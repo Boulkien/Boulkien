@@ -7,7 +7,7 @@
 </table>
 </center>
 
-#Olá! <br>Seja bem-vindo ao meu perfil no Github!
+# Olá! <br>Seja bem-vindo ao meu perfil no Github!
 
 Atualmente estudo Análise e Desenvolvimento de Sistemas pela Uniasselvi, e focado em Node.JS para futuramente trabalhar como BackEnd - 
 sem dizer que sempre estou procurando alguma ferramente nova pra usar ou alguma coisa pra construir e na maioria das vezes falhar :/ 
