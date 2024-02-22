@@ -9,8 +9,9 @@
 
 # Olá! <br>Seja bem-vindo ao meu perfil no Github!
 
-Atualmente estudo Análise e Desenvolvimento de Sistemas pela Uniasselvi, e focado em Node.JS para futuramente trabalhar como BackEnd - 
-sem dizer que sempre estou procurando alguma ferramente nova pra usar ou alguma coisa pra construir e na maioria das vezes falhar :/ 
+Atualmente estudo Análise e Desenvolvimento de Sistemas pela Uniasselvi, porém atualmente trabalho com Governança de Dados. Esse repositório guarda alguns projetos de quando estudava BackEnd com NodeJS e algumas quinquilharias de quando eu mexia com programação.
+
+Foco meus estudos para a área de DataViz, utilizando principalmente o Tableau para criação de visualizações e quem sabe no futuro trabalhar com Python para análise de dados ? Mas isso deixo para o Franco do futuro!
 
 Então caso veja alguma coisa meio estranha, ou deseja me recomendar alguma ferramenta de estudos ou seja só pra bater um papo E ATÉ MESMO CONSTRUIRMOS ALGO JUNTOS, pode me chamar pelo <a href="https://www.linkedin.com/in/francorreyes/">LinkedIn</a> e quem sabe não posso ajudar em algo bacana? 
 
